@@ -5,14 +5,16 @@ Je présente dans ce dépôt une sélection de scripts développés durant mon
 mémoire de maitrise. Ils ont été sélectionnés pour démontrer la variété de 
 mes compétences en programmation.
 
-Il ne s'agit que d'une petite partie de ce qui a été développé. En 
-particulier, ces scripts ne peuvent pas être exécutés directement puisqu'ils 
-ont été sortis de leur contexte, et qu'ils nécessitent l'accès à d'autres 
-modules qui ne se trouvent pas dans ce dépôt.
+Il ne s'agit que d'une *infime* partie de ce qui a été développé, mais ces
+extraits sont représentatifs du reste. Les scripts présentés ici ont été
+sortis de leur contexte, ils ne peuvent donc pas être exécutés directement
+puisqu'ils nécessitent l'accès à d'autres modules qui ne se trouvent pas
+dans ce dépôt.
 
 Sont également inclus des tests unitaires développés pour ces scripts. Je 
 les ai mis dans le même dossier, mais, dans la structure originale, ils se 
-trouvaient dans un dossier séparé.
+trouvaient dans un dossier séparé. La structure de ce dépôt ne correspond
+d'ailleurs pas à la structure originale.
 
 ## Dossier `operations-numpy`
 
